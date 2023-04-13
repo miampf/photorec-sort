@@ -1,6 +1,6 @@
 # photorec-sort.py
 
-This is a python script that's supposed to sort the output of [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) by file types and size.
+This is a python script that's supposed to sort the output of [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) by file types and size. However, it should be able to recursively sort any folder by filetype and size.
 
 For that, it will create a folder structure that will be similair to this one:
 
